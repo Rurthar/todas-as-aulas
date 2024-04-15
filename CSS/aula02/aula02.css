@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Workbench:SCAN@-38&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Butterfly+Kids&display=swap');
+
+h1 {
+    color: rgb(71, 36, 36);
+    font-family: 'Workbench';
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 35px;
+    font-family: 'Butterfly Kids'
+}
+.comentario {
+    color: black;
+    text-align: right;
+    font-size: 15px;
+    font-style: italic;
+    font-family: italic;
+   
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+

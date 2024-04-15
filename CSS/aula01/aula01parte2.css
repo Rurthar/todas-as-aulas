@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    text-shadow: 4px 5px 4px #127369 ;
+}
+spam { 
+    font-weight: 900;
+    font-style: italic;
+}
+p {
+    line-height: 150%;
+    text-align: justify;
+}
